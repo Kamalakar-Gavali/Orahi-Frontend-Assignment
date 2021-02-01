@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Orahi-Frontend-Assignment/static/css/main.af4fc66d.chunk.css",
-    "main.js": "/Orahi-Frontend-Assignment/static/js/main.b43e97dc.chunk.js",
-    "main.js.map": "/Orahi-Frontend-Assignment/static/js/main.b43e97dc.chunk.js.map",
+    "main.css": "/Orahi-Frontend-Assignment/static/css/main.8e8c46a1.chunk.css",
+    "main.js": "/Orahi-Frontend-Assignment/static/js/main.43919ab1.chunk.js",
+    "main.js.map": "/Orahi-Frontend-Assignment/static/js/main.43919ab1.chunk.js.map",
     "runtime-main.js": "/Orahi-Frontend-Assignment/static/js/runtime-main.eac4ab0b.js",
     "runtime-main.js.map": "/Orahi-Frontend-Assignment/static/js/runtime-main.eac4ab0b.js.map",
     "static/js/2.bf9c7f18.chunk.js": "/Orahi-Frontend-Assignment/static/js/2.bf9c7f18.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cbd3726b.chunk.js": "/Orahi-Frontend-Assignment/static/js/3.cbd3726b.chunk.js",
     "static/js/3.cbd3726b.chunk.js.map": "/Orahi-Frontend-Assignment/static/js/3.cbd3726b.chunk.js.map",
     "index.html": "/Orahi-Frontend-Assignment/index.html",
-    "static/css/main.af4fc66d.chunk.css.map": "/Orahi-Frontend-Assignment/static/css/main.af4fc66d.chunk.css.map",
+    "static/css/main.8e8c46a1.chunk.css.map": "/Orahi-Frontend-Assignment/static/css/main.8e8c46a1.chunk.css.map",
     "static/js/2.bf9c7f18.chunk.js.LICENSE.txt": "/Orahi-Frontend-Assignment/static/js/2.bf9c7f18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eac4ab0b.js",
     "static/js/2.bf9c7f18.chunk.js",
-    "static/css/main.af4fc66d.chunk.css",
-    "static/js/main.b43e97dc.chunk.js"
+    "static/css/main.8e8c46a1.chunk.css",
+    "static/js/main.43919ab1.chunk.js"
   ]
 }
